@@ -1,3 +1,6 @@
 [submodule "LazyVim"]
 	path = LazyVim
 	url = https://github.com/LazyVim/LazyVim.git
+[submodule "kickstart"]
+	path = kickstart
+	url = https://github.com/nvim-lua/kickstart.nvim.git
