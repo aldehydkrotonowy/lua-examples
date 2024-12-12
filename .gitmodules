@@ -7,3 +7,9 @@
 [submodule "AstroNvim"]
 	path = AstroNvim
 	url = https://github.com/AstroNvim/AstroNvim.git
+[submodule "nvim-tree"]
+	path = nvim-tree
+	url = git@github.com:nvim-tree/nvim-tree.lua.git
+[submodule "neo-tree"]
+	path = neo-tree
+	url = git@github.com:nvim-neo-tree/neo-tree.nvim.git
